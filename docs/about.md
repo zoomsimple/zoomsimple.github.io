@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-Zoom Simple
+Zoom Simple<br/>
 Jon Hartowicz
 
 ### Contact me
