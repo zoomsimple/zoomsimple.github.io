@@ -9,7 +9,7 @@ Some information about you!
 ### More Information
 
 Zoom Simple<br/>
-Jon Hartowicz
+by Jon Hartowicz
 
 ### Contact me
 
